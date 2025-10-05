@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KXuHXpDz9Qw=",
+  "dgSpecHash": "NOhJmrHwMO8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lab_services_student\\Desktop\\ABCRetailers\\ABCRetailers.csproj",
+  "projectFilePath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ST10457536_PART1_CLDV6212-_GR03\\ABCRetailers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lab_services_student\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\lab_services_student\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
